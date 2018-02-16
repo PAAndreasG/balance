@@ -1,0 +1,20 @@
+{
+  "context": "server",
+  "identifier": "com.pa.andreasg.balance",
+  "display_name": "Fixing Balance One Unit at the Time",
+  "description": "Info comming soon",
+  "author": "AndreasG",
+  "version": "0.001",
+  "build": "108271",
+  "date": "2018/02/09",
+  "signature": " ",
+  "forum": "placeholder",
+  "category": [
+    "gameplay",
+    "titans",
+    "balance"
+  ],
+  "icon": "placeholder",
+  "priority": 100,
+  "titansOnly": true
+}
