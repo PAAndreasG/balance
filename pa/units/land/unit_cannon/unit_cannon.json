@@ -6,7 +6,7 @@
 	"build_metal_cost": 7000,
 	"atrophy_rate": 140.0,
 	"atrophy_cool_down": 15.0,
-	"factory_cooldown_time": 3.0,
+	"factory_cooldown_time": 1.0,
 	"wait_to_rolloff_time": 1.0,
 	"buildable_types": "CannonBuildable",
 	"factory": {
