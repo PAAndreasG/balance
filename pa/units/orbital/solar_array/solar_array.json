@@ -15,7 +15,10 @@
 		}
 	},
 	"production": {
-		"energy": 2500
+		"energy": 3375
+	},
+	"storage": {
+		"energy": 50000
 	},
 	"unit_types": [
 		"UNITTYPE_Mobile",

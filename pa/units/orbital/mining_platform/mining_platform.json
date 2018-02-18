@@ -14,7 +14,6 @@
 		"metal": 36
 	},
 	"storage": {
-		"energy": 50000,
 		"metal": 10000
 	},
 	"unit_types": [
