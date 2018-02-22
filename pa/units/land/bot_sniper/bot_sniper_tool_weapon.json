@@ -10,6 +10,7 @@
 	"pitch_range": 80,
 	"spread_fire": true,
 	"auto_attack": true,
+	"guard_radius": 220,
 	"target_layers": [
 		"WL_LandHorizontal",
 		"WL_Seafloor",
