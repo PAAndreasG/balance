@@ -3,7 +3,7 @@
 	"display_name": "!LOC:Spark",
 	"description": "!LOC:Tesla Bot- Very high damage over an area. Uses energy. Attacks land targets.",
 	"max_health": 130,
-	"build_metal_cost": 105,
+	"build_metal_cost": 95,
 	"attachable": {
 		"offsets": {
 			"root": [
