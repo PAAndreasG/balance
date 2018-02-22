@@ -11,6 +11,7 @@
 	"yaw_range": 90,
 	"pitch_range": 90,
 	"auto_attack": true,
+	"guard_radius": 145,
 	"firing_standard_deviation": 1.0,
 	"arc_type": "ARC_High",
 	"target_layers": [
