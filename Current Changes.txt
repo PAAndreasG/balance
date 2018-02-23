@@ -1,0 +1,49 @@
+Current changelog (old value)
+
+	Bots Units
+
+		Grenadier
+			Range 145 (125)
+			Guard radius 165 (50)
+		Spark
+			Cost 95 (105)
+		Sniper
+			Guard radius 250 (50)
+
+	Tank Units
+
+		Flak
+			splash radius 100 (80)
+			full damage splash radius 50 (40)
+			initial velocity 100.0 (60)
+			max velocity 100.0 (60)
+			radius accel -20.0 (-40.0)
+
+		Vanguard
+			Health 6000 (5000)
+
+	Orbital Units
+
+		Solar Array
+			energy production 3375 (2500)
+			energy storage 50000 (0)
+
+
+	Bildings
+
+		Advanced Factories; Bot, Air, Tank & Naval
+			Cost 4000 (3600)
+
+		Unit cannon
+			cost 7000 (1000)
+			factory_cooldown_time 1.0 (3.0)
+			wait_to_rolloff_time 1.0 (3.0)
+
+		Jig
+			energy production romoval (9000/s)
+			energy storage removal (10000)
+
+
+
+Copy past to lobby message bulletpoints
+		Grenadiers have slightly longer range, spark is 10 metal cheaper. Flak kan now target kestrals and shoot faster and will get single bommers. Vanguards have 20% more health. Jigs dont produse enegy & Solar Arrays are as effective as t2 power. Unitcannons cost 7k metal instead of 10k and have 1s rolloff time instead of 3s
