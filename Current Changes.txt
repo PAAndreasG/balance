@@ -21,6 +21,8 @@ Current changelog (old value)
 
 		Vanguard
 			Health 6000 (5000)
+		Leveler 
+			Cost 600 (800)
 
 	Orbital Units
 
