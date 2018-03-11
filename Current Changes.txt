@@ -41,6 +41,7 @@ Current changelog (old value)
 			cost 7000 (10000)
 			factory_cooldown_time 1.0 (3.0)
 			wait_to_rolloff_time 1.0 (3.0)
+			Can be built on water
 
 		Jig
 			energy production romoval (9000/s)
