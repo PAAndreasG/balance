@@ -24,6 +24,10 @@ Current changelog (old value)
 			Health 6000 (5000)
 		Leveler 
 			Cost 600 (800)
+	
+	Naval Units
+		
+		Naval now has wreckage
 
 	Orbital Units
 
