@@ -8,7 +8,7 @@ Current changelog (old value)
 		Spark
 			Cost 95 (105)
 		Sniper
-			Guard radius 250 (50)
+			Guard radius 225 (50)
 			Ammo initial & max velocity 1000 (600)
 
 	Tank Units
