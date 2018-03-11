@@ -9,6 +9,7 @@ Current changelog (old value)
 			Cost 95 (105)
 		Sniper
 			Guard radius 250 (50)
+			Ammo initial & max velocity 1000 (600)
 
 	Tank Units
 
