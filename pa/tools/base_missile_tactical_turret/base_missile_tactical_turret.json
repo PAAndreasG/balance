@@ -15,8 +15,8 @@
 	"pitch_range":85,
 	"target_priorities":[
 		"Orbital & Defense | Orbital & Heavy | Orbital - Scout & Offense - Fighter",
-+		"Advanced & Mobile - Orbital",
-+		"Mobile | Structure - Wall",
-+		"Orbital"
+		"Advanced & Mobile - Orbital",	
+		"Mobile | Structure - Wall",
+		"Orbital"
 	]
 }
