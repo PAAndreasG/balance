@@ -45,6 +45,12 @@ Current changelog (old value)
 		Jig
 			energy production romoval (9000/s)
 			energy storage removal (10000)
+	
+	Weapons
+
+		Tactical missiles (Bluehawk/Catapult/Stingray/Kraken):
+			T2 missile priority
+			
 
 
 
