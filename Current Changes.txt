@@ -4,7 +4,7 @@ Current changelog (old value)
 
 		Grenadier
 			Range 145 (125)
-			Guard radius 165 (50)
+			Guard radius 150 (50)
 		Spark
 			Cost 95 (105)
 		Sniper

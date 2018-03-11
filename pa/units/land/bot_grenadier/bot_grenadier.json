@@ -4,7 +4,7 @@
 	"description": "!LOC:Fire Support- Long-range. Can fire over walls. Attacks land and sea targets.",
 	"max_health": 80,
 	"build_metal_cost": 100,
-	"guard_radius": 165,
+	"guard_radius": 150,
 	"attachable": {
 		"offsets": {
 			"root": [
