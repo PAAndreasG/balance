@@ -29,6 +29,12 @@ Current changelog (old value)
 		
 		Naval now has wreckage
 
+
+	Air Units
+		
+		Air now has wreckage
+
+
 	Orbital Units
 
 		Solar Array
