@@ -15,7 +15,6 @@
 		}
 	},
 	"production": {
-		"energy": 175
 	},
 	"unit_types": [
 		"UNITTYPE_Air",

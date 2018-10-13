@@ -33,6 +33,8 @@ Current changelog (old value)
 	Air Units
 		
 		Air now has wreckage
+		Icarus
+			Engergy generation 225 (175)
 
 
 	Orbital Units
