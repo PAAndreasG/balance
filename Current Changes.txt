@@ -13,9 +13,6 @@ Current changelog (old value)
 
 	Tank Units
 
-		Ant 
-			Cost 125 (150)
-			Speed 12 (10)
 		Storm
 			splash radius 100 (80)
 			full damage splash radius 50 (40)
