@@ -67,4 +67,9 @@ Current changelog (old value)
 
 
 Copy past to lobby message bulletpoints
-		Grenadiers have slightly longer range, spark is 10 metal cheaper. Storm can now target kestrals and shoot faster and will get single bommers. Vanguards have 20% more health. Jigs dont produse enegy & Solar Arrays are as effective as t2 power. Unitcannons cost 7k metal instead of 10k and have 1s rolloff time instead of 3s
+		Grenadiers have slightly longer range, spark is 10 metal cheaper. Bluehawks/stingray/catapult prioritize t2
+		Storm has increased range. Leveler is back to 600 metal.
+		Vanguards have 20% more health. 
+		Jigs dont produse enegy & Solar Arrays are as effective as t2 power. 
+		Air and naval leave wreackage. T2 cost 400 metal more
+		Unitcannons cost 7k metal instead of 10k and have 1s rolloff time instead of 3s
