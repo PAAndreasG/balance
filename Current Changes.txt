@@ -12,7 +12,9 @@ Current changelog (old value)
 			Ammo initial & max velocity 1000 (600)
 
 	Tank Units
-
+	
+		Fabber
+			Cost 150 (200)
 		Storm
 			splash radius 100 (80)
 			full damage splash radius 50 (40)
