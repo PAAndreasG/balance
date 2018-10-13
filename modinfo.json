@@ -16,5 +16,7 @@
   ],
   "icon": "placeholder",
   "priority": 100,
-  "titansOnly": true
+  "titansOnly": true,
+  "scenes": {
+    "new_game": ["coui://ui/mods/com.pa.andreasg.balance/new_game.js"]
 }
