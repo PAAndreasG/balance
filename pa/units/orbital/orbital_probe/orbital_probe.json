@@ -30,6 +30,7 @@
   ],
   "navigation": {
     "type": "orbital",
+    "inter_planetary_type": null,
     "acceleration": 75,
     "brake": 75,
     "move_speed": 75,
