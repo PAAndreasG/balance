@@ -1,10 +1,10 @@
 {
   "base_spec": "/pa/units/orbital/base_orbital/base_orbital.json",
-  "display_name": "Orbital Fabrication Bot",
-  "localised_display_name": "!LOC:Orbital Fabrication Bot",
-  "description": "!LOC:Orbital Fabricator - Builds orbital satellites and spaceships.",
-  "max_health": 50,
-  "build_metal_cost": 1600,
+  "display_name": "Advanced Orbital Fabrication Bot",
+  "localised_display_name": "!LOC:Advanced Orbital Fabrication Bot",
+  "description": "!LOC:Advanced Orbital Fabricator - Builds orbital satellites and spaceships interplanetary.",
+  "max_health": 400,
+  "build_metal_cost": 2025,
   "system_velocity_multiplier": 15,
   "gravwell_velocity_multiplier": 6,
   "spawn_layers": "WL_Orbital",
@@ -75,17 +75,17 @@
     }
   },
   "model": {
-    "filename": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot.papa",
+    "filename": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_adv_bot.papa",
     "animations": {
-      "open": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot_anim_open.papa",
-      "deploy": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot_anim_deploy.papa",
-      "closed": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot_anim_closed.papa"
+      "open": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot_adv_anim_open.papa",
+      "deploy": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot_adv_anim_deploy.papa",
+      "closed": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot_adv_anim_closed.papa"
     },
-    "animtree": "/pa/anim/anim_trees/orbital_fabrication_bot_anim_tree.json"
+    "animtree": "/pa/anim/anim_trees/orbital_fabrication_bot_adv_anim_tree.json"
   },
   "tools": [
     {
-      "spec_id": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot_build_arm.json",
+      "spec_id": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot_adv_build_arm.json",
       "aim_bone": "bone_shoulder"
     }
   ],
