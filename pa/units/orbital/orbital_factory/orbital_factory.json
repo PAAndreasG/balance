@@ -4,7 +4,7 @@
   "display_name": "!LOC:Orbital Factory",
   "description": "!LOC:Advanced Manufacturing - Builds orbital satellites and spaceships.",
   "max_health": 9000,
-  "build_metal_cost": 3600,
+  "build_metal_cost": 4500,
   "atrophy_rate": 90,
   "atrophy_cool_down": 15,
   "wreckage_health_frac": 0,
